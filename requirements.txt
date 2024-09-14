@@ -1,0 +1,6 @@
+pandas
+pandas-stubs
+requests
+types-requests
+tabulate
+types-tabulate
