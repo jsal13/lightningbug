@@ -6,4 +6,6 @@ A terminal weather app.
 
 ## Quickstart
 
-Run the `run.py` file.
+```shell
+python main.py
+```
